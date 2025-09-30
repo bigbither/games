@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client"
+    "\\client",
+    "\\client\\css",
+    "\\client\\js"
   ],
+  "SelectedNode": "\\client\\css\\enter-data.css",
   "PreviewInSolutionExplorer": false
 }
