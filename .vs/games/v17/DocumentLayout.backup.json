@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\cs\\Full-Stack Web Development\\games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\js\\write-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\js\\view-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "enter-data.css",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
-              "RelativeDocumentMoniker": "client\\css\\enter-data.css",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
-              "RelativeToolTip": "client\\css\\enter-data.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-30T05:36:02.798Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "home.html",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\home.html",
-              "RelativeDocumentMoniker": "client\\home.html",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\home.html",
-              "RelativeToolTip": "client\\home.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-30T05:15:30.365Z",
+              "Title": "write-data.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js",
+              "RelativeDocumentMoniker": "client\\js\\write-data.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js",
+              "RelativeToolTip": "client\\js\\write-data.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-30T05:46:19.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "view-data.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js",
+              "RelativeDocumentMoniker": "client\\js\\view-data.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js",
+              "RelativeToolTip": "client\\js\\view-data.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-30T05:45:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enter-data.css",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
+              "RelativeDocumentMoniker": "client\\css\\enter-data.css",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
+              "RelativeToolTip": "client\\css\\enter-data.css",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-30T05:36:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "enter-data.html",
               "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html",
               "RelativeDocumentMoniker": "client\\enter-data.html",
               "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html",
               "RelativeToolTip": "client\\enter-data.html",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-30T04:37:10.849Z"
+              "WhenOpened": "2025-09-30T04:37:10.849Z",
+              "EditorCaption": ""
             }
           ]
         }
