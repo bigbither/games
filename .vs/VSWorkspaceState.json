@@ -3,8 +3,9 @@
     "",
     "\\client",
     "\\client\\css",
-    "\\client\\js"
+    "\\client\\js",
+    "\\server",
+    "\\server\\files"
   ],
-  "SelectedNode": "\\client\\js\\write-data.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,38 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cs\\Full-Stack Web Development\\games\\",
+  "WorkspaceRootPath": "C:\\cs\\Full-Stack Web Development\\HW\\games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\view-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\js\\view-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\write-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\js\\write-data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\view-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\browse-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\browse-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\view-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\view-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\files\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\files\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\view-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\view-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\browse-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\router.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\enter-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\browse-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\browse-data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\css\\enter-data.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,106 +70,179 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "view-data.html",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\view-data.html",
-              "RelativeDocumentMoniker": "client\\view-data.html",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\view-data.html",
-              "RelativeToolTip": "client\\view-data.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-01T20:41:27.025Z",
+              "DocumentIndex": 2,
+              "Title": "browse-data.css",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\browse-data.css",
+              "RelativeDocumentMoniker": "client\\css\\browse-data.css",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\browse-data.css",
+              "RelativeToolTip": "client\\css\\browse-data.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-16T00:52:41.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\home.css",
+              "RelativeDocumentMoniker": "client\\css\\home.css",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\home.css",
+              "RelativeToolTip": "client\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-16T00:52:24.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "enter-data.html",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\enter-data.html",
+              "RelativeDocumentMoniker": "client\\enter-data.html",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\enter-data.html",
+              "RelativeToolTip": "client\\enter-data.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-13T02:57:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "view-data.js",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\view-data.js",
               "RelativeDocumentMoniker": "client\\js\\view-data.js",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\view-data.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\view-data.js",
               "RelativeToolTip": "client\\js\\view-data.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-09-30T05:45:22.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "write-data.js",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\write-data.js",
               "RelativeDocumentMoniker": "client\\js\\write-data.js",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\js\\write-data.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\write-data.js",
               "RelativeToolTip": "client\\js\\write-data.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-09-30T05:46:19.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "enter-data.html",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html",
-              "RelativeDocumentMoniker": "client\\enter-data.html",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\enter-data.html",
-              "RelativeToolTip": "client\\enter-data.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-30T04:37:10.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-01T20:42:15.749Z",
+              "DocumentIndex": 6,
+              "Title": "services.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\services.js",
+              "RelativeDocumentMoniker": "server\\services.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\services.js",
+              "RelativeToolTip": "server\\services.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-30T00:19:50.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "browse-data.html",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\browse-data.html",
-              "RelativeDocumentMoniker": "client\\browse-data.html",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\browse-data.html",
-              "RelativeToolTip": "client\\browse-data.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-01T20:42:08.991Z",
+              "Title": "view-data.css",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\view-data.css",
+              "RelativeDocumentMoniker": "client\\css\\view-data.css",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\view-data.css",
+              "RelativeToolTip": "client\\css\\view-data.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-13T03:52:22.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "home.html",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\home.html",
-              "RelativeDocumentMoniker": "client\\home.html",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\home.html",
-              "RelativeToolTip": "client\\home.html",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-01T20:42:06.334Z",
+              "DocumentIndex": 3,
+              "Title": "enter-data.css",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\enter-data.css",
+              "RelativeDocumentMoniker": "client\\css\\enter-data.css",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\css\\enter-data.css",
+              "RelativeToolTip": "client\\css\\enter-data.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-13T02:57:09.523Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "view-data.html",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\view-data.html",
+              "RelativeDocumentMoniker": "client\\view-data.html",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\view-data.html",
+              "RelativeToolTip": "client\\view-data.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-13T02:58:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "browse-data.html",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\browse-data.html",
+              "RelativeDocumentMoniker": "client\\browse-data.html",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\browse-data.html",
+              "RelativeToolTip": "client\\browse-data.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-13T03:39:04.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "enter-data.css",
-              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
-              "RelativeDocumentMoniker": "client\\css\\enter-data.css",
-              "ToolTip": "C:\\cs\\Full-Stack Web Development\\games\\client\\css\\enter-data.css",
-              "RelativeToolTip": "client\\css\\enter-data.css",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-30T05:36:02.798Z"
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\files\\data.txt",
+              "RelativeDocumentMoniker": "server\\files\\data.txt",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\files\\data.txt",
+              "RelativeToolTip": "server\\files\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACKBgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-13T03:30:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "config.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\config.js",
+              "RelativeDocumentMoniker": "client\\js\\config.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\client\\js\\config.js",
+              "RelativeToolTip": "client\\js\\config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-06T01:18:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\server.js",
+              "RelativeDocumentMoniker": "server\\server.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\server.js",
+              "RelativeToolTip": "server\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-30T00:19:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "router.js",
+              "DocumentMoniker": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\router.js",
+              "RelativeDocumentMoniker": "server\\router.js",
+              "ToolTip": "C:\\cs\\Full-Stack Web Development\\HW\\games\\server\\router.js",
+              "RelativeToolTip": "server\\router.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-30T00:19:58.94Z"
             }
           ]
         }
