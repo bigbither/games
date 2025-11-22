@@ -19,11 +19,10 @@ function retrieveData()
         })
 }
 function showTable(gameData) {
-
-    console.log("Table element:", document.getElementById("gamesTable"));
     let htmlString = "";
     for (let i = 0; i < gameData.length; i++) {
         htmlString += "<tr>";
+        htmlString += "<td>" + gameData[i].id + "</td>";
         htmlString += "<td>" + gameData[i].gameName + "</td>";
         htmlString += "<td>" + gameData[i].rating + "</td>";
         htmlString += "<td>" + gameData[i].storyLength + "</td>";
@@ -31,10 +30,47 @@ function showTable(gameData) {
         htmlString += "<td>" + gameData[i].gameDeveloper + "</td>";
         htmlString += "<td>" + gameData[i].releaseDate + "</td>";
         htmlString += "<td>" + gameData[i].recentUpdates + "</td>";
+        htmlString += `<td><button class="delete-button" data-id="${gameData[i].id}">Delete</button></td>`;
         htmlString += "</tr>";
     }
 
     document.getElementById("gamesTable").innerHTML = htmlString;
+
+    activateDelete();
 }
 
+
+function activateDelete() {
+    const deleteButtons = document.querySelectorAll('.delete-button');
+    deleteButtons.forEach(button => {
+        button.addEventListener('click', function () {
+            const deleteID = this.getAttribute("data-id");
+            handleDelete(deleteID);
+        });
+    });
+}
+
+
 retrieveData();
+
+async function handleDelete(deleteID) {
+    try {
+        const res = await fetch("/delete-record", {
+            method: "DELETE",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ id: deleteID })
+        });
+
+        const data = await res.json();
+
+        if (data.msg === "SUCCESS") {
+            alert("Game deleted successfully!");
+            retrieveData();
+        } else {
+            alert("Delete failed: " + data.msg);
+        }
+    } catch (err) {
+        console.error("Error deleting:", err);
+        alert("Error deleting game");
+    }
+}

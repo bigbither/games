@@ -71,7 +71,39 @@ var services = function (server) {
             let gamesData = [];
             res.json({ msg: "SUCCESS", gamesData: gamesData });
         }
+    })
+
+    server.delete("/delete-record", (req, res) => {
+        const idToDelete = req.body.id;
+
+        if (!fs.existsSync(database_file)) 
+            return res.status(404).json({ msg: "Database file not found" });
+
+
+        fs.readFile(database_file, "utf-8", (err, data) => {
+            if (err) return res.json({ msg: err });
+
+            let gamesData;
+            try {
+                gamesData = JSON.parse(data);
+            } catch (parseErr) {
+                return res.json({ msg: "Error parsing database file" });
+            }
+
+            const index = gamesData.findIndex(g => g.id === idToDelete);
+            gamesData.splice(index, 1);
+
+            fs.writeFile(database_file, JSON.stringify(gamesData), "utf-8", (writeErr) => {
+                if (writeErr)
+                    return res.json({ msg: "Error writing database file" });
+                res.json({ msg: "SUCCESS", gamesData });
+            });
+        });
     });
+
+
+
+        
 
 }
 

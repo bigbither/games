@@ -54,3 +54,7 @@ clearButton.addEventListener('click', function (event) {
     event.preventDefault();
     document.getElementById("enter-data").reset();
 });
+
+
+
+
