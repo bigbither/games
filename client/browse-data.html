@@ -6,12 +6,16 @@
     <title>Robert's Game Spot</title>
     <link rel="stylesheet" href="/client/css/browse-data.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="/client/js/config.js"></script>
+    <script src="/client/js/browse-data.js"></script>
+
 </head>
 
 
 
 
-<body>
+<body ng-app="browseGamesApp" ng-controller="browseGamesCtrl">
 
 
     <section>
@@ -26,15 +30,53 @@
     </section>
 
 
-    <section id="main-section">        
-        <div>
-            <h2>Browse Data</h2>
+    <section id="main-section">
+        <div class="gameBox">
 
-            
+            <div>
+                <label>Game Name:</label>
+                <label class="game-info">{{obj.gameName}}</label>
+            </div>
+
+            <div>
+                <label>Rating:</label>
+                <label class="game-info">{{obj.rating}}</label>
+            </div>
+
+            <div>
+                <label>Story Length (hrs):</label>
+                <label class="game-info">{{obj.storyLength}}</label>
+            </div>
+
+            <div>
+                <label>Player Count:</label>
+                <label class="game-info">{{obj.playerCount}}</label>
+            </div>
+
+            <div>
+                <label>Game Developer:</label>
+                <label class="game-info">{{obj.gameDeveloper}}</label>
+            </div>
+
+            <div>
+                <label>Release Date:</label>
+                <label class="game-info">{{obj.releaseDate}}</label>
+            </div>
+
+            <div>
+                <label>Recent Updates:</label>
+                <label class="game-info">{{obj.recentUpdates}}</label>
+            </div>
+
+            <div style="margin-top: 30px;">
+                <button ng-click="changeGame(-1)" ng-hide="hidePrev">&lt;&lt;&lt; Previous</button>
+                <button ng-click="changeGame(1)" ng-hide="hideNext">Next &gt;&gt;&gt;</button>
+            </div>
+
         </div>
 
 
-       
+
     </section>
 
 
